@@ -1,0 +1,5 @@
+# .gitignore
+*.swo
+# Gradle
+.gradle
+build
